@@ -5,8 +5,8 @@ use crate::write_csv::convert_to_csv;
 mod parser;
 mod data_structure;
 
-#[path="../test/read_by_line.rs"]
-mod read_by_line;
+//#[path="../test/read_by_line.rs"]
+//mod read_by_line;
 mod write_csv;
 
 fn main() {
